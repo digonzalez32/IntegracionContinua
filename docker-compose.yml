@@ -4,7 +4,7 @@ services:
     image: politecnico/compose-web
     build: web
     ports:
-      - 81:3001
+      - 81:3000
   db:
     image: politecnico/compose-db
     build: database
