@@ -6,7 +6,8 @@
     "author": "Gabriel Schenker",
     "license": "ISC",
     "scripts": {
-        "start": "node src/server.js"
+        "start": "node src/server.js",
+	"test": "mocha"
     },
     "dependencies": {
         "express": "^4.17.1",
