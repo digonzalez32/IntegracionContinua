@@ -10,7 +10,7 @@
         "test": "mocha test"
     },
     "dependencies": {
-        "express": "^7.18.1",
+        "express": "^4.17.1",
         "mocha": "^9.0.1",
         "mustache-express": "^1.3.0",
         "pg": "^7.12.1"
