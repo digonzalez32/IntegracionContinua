@@ -6,8 +6,8 @@
     "author": "Gabriel Schenker",
     "license": "ISC",
     "scripts": {
-        "start": "node src/server.js",
-	"test": "mocha --recursive ./web/test/"
+        "start": "node src",
+	"test": "mocha --recursive ./web/"
     },
     "dependencies": {
         "express": "^4.17.1",
