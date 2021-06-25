@@ -12,4 +12,4 @@ services:
       - pets-data:/var/lib/postgresql/data
 
 volumes:
-  pets-data:
+  pets-data: 
